@@ -77,3 +77,18 @@ And about that Behavior Score system that started this whole journey — in all 
 Over 40 hours. Hundreds of builds. Countless ERROR models stared at and debugged. All so the next new player who clicks "Learn" gets the experience they deserve.
 
 See you out there.
+
+---
+
+## Installation
+
+1. Download this repository as a ZIP (green **Code** button → **Download ZIP**)
+2. Extract the ZIP
+3. Copy the `resource/` and `scripts/` folders to:
+   ```
+   C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota_addons\npx_2019\
+   ```
+4. Overwrite existing files when prompted
+5. Launch Dota 2 and open the **Learn** tab to play any scenario
+
+> **Tip:** Back up the original `npx_2019` folder before overwriting in case you want to revert.

@@ -1,0 +1,17 @@
+"DOTAAbilities"
+{
+	"item_witless_shako"
+	{
+		// Item Info
+		//-------------------------------------------------------------------------------------------------------------
+		"ItemCost"						"0"
+		"ItemIsNeutralDrop"				"1"
+		"ItemPurchasable"				"0"
+
+		"AbilityValues"
+		{
+				"max_health"			"-700"
+				"max_mana"				"0"
+		}
+	}
+}
